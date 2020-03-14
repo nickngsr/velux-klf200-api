@@ -5,6 +5,7 @@
   "main": "lib/net.js",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "debug": "^4.1.0",
     "safe-buffer": "^5.1.2"
   },
